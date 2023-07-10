@@ -39,8 +39,8 @@ case 3:
 case 4:
         HashSet<String> l1=new HashSet<>();
                 l1.add("Viru");
-                l1.add("Sri");
-                l1.add("Gokul");
+                l1.add("thika");
+                l1.add("Murugesan");
                 l.retainAll(l1);
                 System.out.println("Common Elements :"+l);
         break;
